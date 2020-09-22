@@ -1,5 +1,4 @@
--- Script idea by Hazey17, coded by Inferno (Christopher M.)
-
+-- Script idea by Heist Now Roleplay India, coded by Majnu Bhai
 -- Last Entity Ped aimed at
 local LastEntity = false
 -- Last vehicle aimed at
